@@ -1,0 +1,24 @@
+WxPayResults Object
+(
+    [values:protected] => Array
+        (
+            [appid] => wx426b3015555a46be
+            [attach] => test
+            [bank_type] => CFT
+            [cash_fee] => 1
+            [fee_type] => CNY
+            [is_subscribe] => N
+            [mch_id] => 1900009851
+            [nonce_str] => hkowo62fby3h3wk181eikq0istqp32wd
+            [openid] => oHZx6uEXFrjkRx2j9lgI0j3Y--Z8
+            [out_trade_no] => 190000985120170704154321
+            [result_code] => SUCCESS
+            [return_code] => SUCCESS
+            [sign] => 706830582541F746785296E21D01A813
+            [time_end] => 20170704154333
+            [total_fee] => 1
+            [trade_type] => NATIVE
+            [transaction_id] => 4006522001201707048861033878
+        )
+
+)

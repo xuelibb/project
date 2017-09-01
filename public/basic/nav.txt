@@ -1,0 +1,1 @@
+[{"nav_title":"\u9996\u9875","nav_link":"\\"},{"nav_title":"\u6211\u8981\u6295\u8d44","nav_link":"invest"},{"nav_title":"\u6211\u8981\u501f\u6b3e","nav_link":"borrow"},{"nav_title":"\u5b89\u5168\u4fdd\u969c","nav_link":"safe"},{"nav_title":"\u6211\u7684\u8d26\u53f7","nav_link":"user_info"}]
